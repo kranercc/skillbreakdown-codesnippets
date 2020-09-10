@@ -100,3 +100,13 @@ HRESULT __stdcall hookedEndScene(IDirect3DDevice9* pDevice)
 
 
 ```
+
+```Lua
+
+local a = 1;
+for k, v in pairs(table) do
+	local b = 12 
+	
+end
+
+```

@@ -102,7 +102,7 @@ HRESULT __stdcall hookedEndScene(IDirect3DDevice9* pDevice)
 ```
 
 
-### Game Automations
+### Lua Game Automations
 
 Illusion splitter to confuse enemies
 
